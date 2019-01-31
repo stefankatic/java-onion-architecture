@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: onion-demo
+  datasource:
+    url: jdbc:mysql://localhost:3306/onion
+    username: root
+    password: password1234
